@@ -26,6 +26,7 @@
             </activation>
             <modules>
                 <module>./leetcode</module>
+                <module>./data-structure</module>
             </modules>
         </profile>
     </profiles>
